@@ -23,6 +23,9 @@
 - [x] [A Brighter Summer Day (1991)](https://www.youtube.com/watch?v=7VASB1PUZD8) 
 - [x] [Taipei Story (1985)](https://www.youtube.com/watch?v=iR2WuBKzSkY) 
 
+## Elem Klimov
+- [ ] [Come and See (1985)](https://www.youtube.com/watch?v=UkkJZweYaLI)
+
 ## F. W. Murnau
 - [ ] [Nosferatu (1922)](https://www.youtube.com/watch?v=e7p3ct5hcks) 
 
@@ -58,8 +61,14 @@
 ## Richard Linklater
 - [ ] [Slacker (1990)](https://www.youtube.com/watch?v=ynEAbiCDVJ4) 
 
+## Seijun Suzuki
+- [ ] [Tokyo Drifter (1966)](https://www.youtube.com/watch?v=rRHdjWS48Jw)
+
 ## Todd Haynes
 - [ ] [Safe (1995)](https://m.youtube.com/watch?v=pxEHtoof2CU) 
+
+## Vittorio De Sica
+- [ ] [Bicycle Thieves (1949)](https://www.youtube.com/watch?v=4A26tj-fI-c)
 
 ## Werner Herzog
 - [x] [Grizzly Man (2005)](https://www.youtube.com/watch?v=efNtliiyT3M)
