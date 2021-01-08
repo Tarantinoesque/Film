@@ -18,6 +18,11 @@
 ## Barbara Kopple
 - [ ] [Harlan County, USA (1976)](https://www.youtube.com/watch?v=FCOd7fPHmfU)
 
+## David Lynch
+- [ ] [The Short Films of David Lynch (2002)](https://www.youtube.com/watch?v=bn-yp836vX4)
+- [ ] [The Grandmother (1970)](https://www.youtube.com/watch?v=dzaCKoG8clY)
+- [ ] [The Alphabet (1968)](https://www.youtube.com/watch?v=X6kLzKgcLew)
+
 ## Edward Yang
 - [x] [Yi Yi (2000)](https://www.youtube.com/watch?v=U089cG2BqR8) 
 - [x] [A Brighter Summer Day (1991)](https://www.youtube.com/watch?v=7VASB1PUZD8) 
@@ -31,6 +36,10 @@
 
 ## Federico Fellini
 - [ ] [8 1/2 (1963)](https://www.youtube.com/watch?v=n0vrFGJaKDs)
+
+## Gaspar Noé
+- [ ] [Carne (1991)](https://www.youtube.com/watch?v=9tN9LI_GW9c)
+- [x] [Shoot (2014)](https://www.youtube.com/watch?v=-vul70kTZqw)
 
 ## Ingmar Bergman
 - [ ] [The Seventh Seal (1957)](https://www.youtube.com/watch?v=mbgiWPJLSsM)
