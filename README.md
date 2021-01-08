@@ -1,5 +1,6 @@
 # Film
-> 🎞 Film links on YouTube 🎞
+> **Command-f** on Mac to search a film's date, title, or director.
+> **Ctrl-f** on Windows to search a film's date, title, or director.
 
 ![](film.jpg)
 
