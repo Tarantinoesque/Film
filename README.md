@@ -74,6 +74,9 @@
 ## Seijun Suzuki
 - [ ] [Tokyo Drifter (1966)](https://www.youtube.com/watch?v=rRHdjWS48Jw)
 
+## Terrence Malick
+- [ ] [Badlands (1973)](https://www.youtube.com/watch?v=-jt8MLbfMNI)
+
 ## Todd Haynes
 - [ ] [Safe (1995)](https://m.youtube.com/watch?v=pxEHtoof2CU) 
 
