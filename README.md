@@ -19,7 +19,12 @@
 ## Barbara Kopple
 - [ ] [Harlan County, USA (1976)](https://www.youtube.com/watch?v=FCOd7fPHmfU)
 
+## Barry Levinson
+- [ ] [Rain Man (1988)](https://www.youtube.com/watch?v=jlAX_j04Lp0)
+
 ## David Lean
+- [ ] [Lawrence of Arabia (1962)](https://www.youtube.com/watch?v=C8vHgdbtmj8)
+- [ ] [The Bridge on the River Kwai (1957)](https://www.youtube.com/watch?v=-5aSr5Ba-Dw)
 - [ ] [Lawrence of Arabia (1962)](https://www.youtube.com/watch?v=C8vHgdbtmj8)
 
 ## David Lynch
@@ -52,13 +57,17 @@
 ## Jean-Luc Godard
 - [ ] [Vivre Sa Vie (1962)](https://www.youtube.com/watch?v=lVwwbn3Xri0) 
 
+## John Sturges
+- [ ] [The Great Escape (1963)](https://www.youtube.com/watch?v=Aq2_CnMrPSk) 
+
 ## John Woo
 - [ ] [The Killer (1989)](https://www.youtube.com/watch?v=YjPy3gy1OYc) 
-
+<!--
 ## Krzysztof Kieślowski
 - [ ] [Camera Buff (1979)](https://www.youtube.com/watch?v=jh6W8oYy7cY)
-
+-->
 ## Martin Scorsese
+- [ ] [Raging Bull (1980)](https://www.youtube.com/watch?v=WGTlO_GO29I)
 - [ ] [Italianamerican (1974)](https://www.youtube.com/watch?v=bxYl93p0ksc)
 
 ## Mike Leigh
@@ -91,6 +100,9 @@
 - [ ] [Aguirre, the Wrath of God (1973)](https://www.youtube.com/watch?v=RIOCyVeRmjo) 
 - [ ] [Into the Abyss (2011)](https://www.youtube.com/watch?v=kCmlE17iUT0) 
 - [ ] [Nosferatu the Vampyre (1979)](https://www.youtube.com/watch?v=FlSY-wtyCGc) 
+
+## Wes Anderson
+- [ ] [The Darjeeling Limited (2007)](https://www.youtube.com/watch?v=FlSY-wtyCGc) 
 
 ## William Greaves
 - [ ] [Symbiopsychotaxiplasm: Take One (1968)](https://www.youtube.com/watch?v=atf3rqBuGUM)
