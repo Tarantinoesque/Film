@@ -31,6 +31,7 @@
 - [ ] [The Short Films of David Lynch (2002)](https://www.youtube.com/watch?v=bn-yp836vX4)
 - [ ] [The Grandmother (1970)](https://www.youtube.com/watch?v=dzaCKoG8clY)
 - [ ] [The Alphabet (1968)](https://www.youtube.com/watch?v=X6kLzKgcLew)
+- [ ] [The Straight Story (1999)](https://www.youtube.com/watch?v=y5PrCAL63CM)
 
 ## Edward Yang
 - [x] [Yi Yi (2000)](https://www.youtube.com/watch?v=U089cG2BqR8) 
