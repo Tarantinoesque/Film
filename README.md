@@ -25,7 +25,6 @@
 ## David Lean
 - [ ] [Lawrence of Arabia (1962)](https://www.youtube.com/watch?v=C8vHgdbtmj8)
 - [ ] [The Bridge on the River Kwai (1957)](https://www.youtube.com/watch?v=-5aSr5Ba-Dw)
-- [ ] [Lawrence of Arabia (1962)](https://www.youtube.com/watch?v=C8vHgdbtmj8)
 
 ## David Lynch
 - [ ] [The Short Films of David Lynch (2002)](https://www.youtube.com/watch?v=bn-yp836vX4)
