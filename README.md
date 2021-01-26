@@ -31,6 +31,7 @@
 - [ ] [The Grandmother (1970)](https://www.youtube.com/watch?v=dzaCKoG8clY)
 - [ ] [The Alphabet (1968)](https://www.youtube.com/watch?v=X6kLzKgcLew)
 - [ ] [The Straight Story (1999)](https://www.youtube.com/watch?v=y5PrCAL63CM)
+- [ ] [David Lynch Cooks Quinoa (2007)](https://www.youtube.com/watch?v=uSP-ewdJYJc)
 
 ## Edward Yang
 - [x] [Yi Yi (2000)](https://www.youtube.com/watch?v=U089cG2BqR8) 
@@ -66,6 +67,11 @@
 ## Krzysztof Kieślowski
 - [ ] [Camera Buff (1979)](https://www.youtube.com/watch?v=jh6W8oYy7cY)
 -->
+
+## Les Blank
+- [ ] [Werner Herzog Eats His Shoe (1980)](https://www.youtube.com/watch?v=odiN98-Lmmg)
+- [ ] [Burden of Dreams (1982)](https://www.youtube.com/watch?v=5cG9ugpbud8)
+
 ## Martin Scorsese
 - [ ] [Raging Bull (1980)](https://www.youtube.com/watch?v=WGTlO_GO29I)
 - [ ] [Italianamerican (1974)](https://www.youtube.com/watch?v=bxYl93p0ksc)
